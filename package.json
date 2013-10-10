@@ -1,7 +1,7 @@
 {
   "name": "image2base64",
-  "version": "0.0.1",
-  "description": "Convert an Image to a base64 string",
+  "version": "0.0.2",
+  "description": "Convert an Image to a base64 string in the browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,13 +20,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/peutetre/Image2Base64/issues"
-  },
-  "dependencies": {
-    "q": "0.9.x",
-    "qstart": "0.0.4",
-    "qimage": "1.0.1"
-  },
-  "devDependencies": {
-    "browserify": "2.29.1"
   }
 }
