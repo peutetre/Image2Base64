@@ -1,5 +1,5 @@
 {
-  "name": "Image2Base64",
+  "name": "image2base64",
   "version": "0.0.1",
   "description": "Convert an Image to a base64 string",
   "main": "index.js",
