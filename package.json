@@ -1,0 +1,32 @@
+{
+  "name": "Image2Base64",
+  "version": "0.0.1",
+  "description": "Convert an Image to a base64 string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": " ./node_modules/browserify/bin/cmd.js ./example/example.js -o ./example/main.js --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peutetre/Image2Base64.git"
+  },
+  "keywords": [
+    "browser",
+    "image",
+    "base64"
+  ],
+  "author": "Paul Panserrieu <paul@42loops.com> (http://42loops.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peutetre/Image2Base64/issues"
+  },
+  "dependencies": {
+    "q": "0.9.x",
+    "qstart": "0.0.4",
+    "qimage": "1.0.1"
+  },
+  "devDependencies": {
+    "browserify": "2.29.1"
+  }
+}
