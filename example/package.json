@@ -8,11 +8,11 @@
   "author": "Paul Panserrieu <paul@42loops.com> (http://42loops.com)",
   "license": "MIT",
   "dependencies": {
-    "q": "0.9.x",
-    "qstart": "0.0.4",
-    "qimage": "1.0.1"
+    "q": "1.0.0",
+    "qstart": "0.1.0",
+    "qimage": "1.1.1"
   },
   "devDependencies": {
-    "browserify": "2.29.1"
+    "browserify": "3.24.8"
   }
 }

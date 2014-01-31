@@ -1,6 +1,6 @@
 {
   "name": "image2base64",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert an Image to a base64 string in the browser",
   "main": "index.js",
   "scripts": {

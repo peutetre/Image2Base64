@@ -4,7 +4,7 @@ var Qstart = require('qstart'),
 
 function main() {
     var url = "https://0.gravatar.com/avatar/65920e23fe9e867755920783db9fe3aa";
-    return Qimage(url, { crossorigin : "Anonymous" }).then(function (image) {
+    return Qimage(url, { crossOrigin : "Anonymous" }).then(function (image) {
         console.log(Image2Base64(image));
     });
 }
